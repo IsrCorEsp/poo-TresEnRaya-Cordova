@@ -1,0 +1,16 @@
+[
+  {
+    "derrotas": 1,
+    "empates": 0,
+    "nombre": "Jugador 1",
+    "puntos": 3,
+    "victorias": 1
+  },
+  {
+    "derrotas": 1,
+    "empates": 0,
+    "nombre": "Jugador 2",
+    "puntos": 3,
+    "victorias": 1
+  }
+]

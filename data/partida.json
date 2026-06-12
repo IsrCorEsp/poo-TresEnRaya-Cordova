@@ -1,0 +1,32 @@
+{
+  "empates": 0,
+  "historial": [
+    "R1: Gana Jugador 1",
+    "R2: Gana Jugador 2"
+  ],
+  "jugador1": "Jugador 1",
+  "jugador2": "Jugador 2",
+  "movimientos": [],
+  "puntos1": 3,
+  "puntos2": 3,
+  "tablero": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ]
+  ],
+  "turno": 1,
+  "victoriasO": 1,
+  "victoriasX": 1
+}
